@@ -1,0 +1,69 @@
+.blog {
+    margin-top: 0px;
+    padding: 90px 0px 150px 0px;
+    background: #F6F6F6;
+}
+
+.blog .articulo-primera {
+    height: 250px;
+    padding: 0px;
+    margin: 0;
+    border: none;
+}
+
+.blog .articulo-segunda {
+    height: 350px;
+    padding: 0px;
+}
+
+/* PRIMERA LINEA */
+
+.blog .primera-linea .cuadro-uno {
+    background-image: url('../imgs/congreso.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    color: #fff;
+    text-align: justify;
+    padding: 25px;
+    font-weight: 100;
+} 
+
+.blog .primera-linea .cuadro-uno a,
+.blog .primera-linea .cuadro-uno h5 {
+    text-decoration: none;
+    font-weight: 700;
+    color: #fff;
+}
+
+.blog .primera-linea .cuadro-dos {
+    background-color: #2A8375;
+}
+
+.blog .primera-linea .cuadro-tres {
+    background-color: #347165;
+}
+
+/* SEGUNDA LINEA */
+
+.blog .segunda-linea .cuadro-uno {
+    background-color: #224B43;
+}
+
+.blog .segunda-linea .cuadro-dos {
+    background-color: #FFF;
+}
+
+.blog .segunda-linea .cuadro-tres {
+    background-color: #941E2A;
+}
+
+/* IFRAMES 1RA FILA */
+
+.blog .primera-linea .cuadro-dos .iframe-twitter {
+}
+
+.blog .primera-linea .cuadro-tres .iframe-facebook {
+    width: 100%;
+}

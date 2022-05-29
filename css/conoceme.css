@@ -1,0 +1,18 @@
+section.conoceme {
+    padding: 150px 0;
+    color: #000;
+    background-image: url('../imgs/politico.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.conoceme .titulo h3 {
+    color:  #000;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.conoceme .contenido {
+    font-size: 20px;
+}
